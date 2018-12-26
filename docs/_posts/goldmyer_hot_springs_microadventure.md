@@ -1,5 +1,5 @@
-Title: Wallace Falls #microadventure
-Date: 2015.02.05
+Title: Goldmyer Hot Springs #microadventure
+Date: 2015.02.23
 Summary: February's microadventure involved some hot springs and a simple formula
 MainImage: /img/goldmyer.jpg
 Thumbnail: /img/goldmyer_thumb.jpg

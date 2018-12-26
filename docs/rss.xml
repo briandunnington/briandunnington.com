@@ -7,8 +7,8 @@
         <description>RSS feed for website</description>
         <language>en-us</language>
         <copyright>Copyright 2015 - Brian Dunnington</copyright>
-        <pubDate>Wed, 26 Dec 2018 10:44:45 GMT</pubDate>
-        <lastBuildDate>Wed, 26 Dec 2018 10:44:45 GMT</lastBuildDate>
+        <pubDate>Wed, 26 Dec 2018 11:06:16 GMT</pubDate>
+        <lastBuildDate>Wed, 26 Dec 2018 11:06:16 GMT</lastBuildDate>
 
         <item>
             <title>Soup Box Derby 2015</title>
@@ -30,7 +30,7 @@
             <image>https://briandunnington.com/img/soupboxderby_thumb.jpg</image>
         </item>
         <item>
-            <title>Wallace Falls #microadventure</title>
+            <title>Goldmyer Hot Springs #microadventure</title>
             <link>https://briandunnington.com/goldmyer_hot_springs_microadventure</link>
             <description><![CDATA[
 <div><img src='https://briandunnington.com/img/goldmyer.jpg' style='max-width:100%;height:auto;' /></div><p>February's <a href="http://www.microadventures.org/">#microadventure</a> involved some hot springs out in the woods and had this simple formula:</p>
@@ -46,7 +46,7 @@
 <p><img src="/img/outdoors/goldmyer_bike.jpg" class="largeimg" /></p>
 
 ]]></description>
-            <pubDate>Thu, 05 Feb 2015 12:00:00 GMT</pubDate>
+            <pubDate>Mon, 23 Feb 2015 12:00:00 GMT</pubDate>
             <guid>https://briandunnington.com/goldmyer_hot_springs_microadventure</guid>
             <image>https://briandunnington.com/img/goldmyer_thumb.jpg</image>
         </item>
