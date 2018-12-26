@@ -1,8 +1,8 @@
 Title: Global Fatbike Day
 Date: 2013.12.09
 Summary: Got out and had a fun ride to celebrate Global Fatbike Day
-MainImage: /.img/bd_bikesunbeams.jpg
-Thumbnail: /.img/bd_bikesunbeams_thumb.jpg
+MainImage: /img/bd_bikesunbeams.jpg
+Thumbnail: /img/bd_bikesunbeams_thumb.jpg
 Tags: biking
 Category: outdoors
 

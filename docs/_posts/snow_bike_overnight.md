@@ -1,8 +1,8 @@
 Title: December Microadventure - Snow Bike + Camp
 Date: 2013.12.13
 Summary: Got out and had a fun ride to celebrate Global Fatbike Day
-MainImage: /.img/bikesled.jpg
-Thumbnail: /.img/bikesled_thumb.jpg
+MainImage: /img/bikesled.jpg
+Thumbnail: /img/bikesled_thumb.jpg
 Tags: biking, microadventure
 Category: outdoors
 

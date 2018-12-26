@@ -1,8 +1,8 @@
 Title: BrickFest Montage Clip 2 - Psycho
 Date: 2006.06.22
 Summary: Another famous scene done in Lego
-MainImage: /.img/lego_psycho.jpg
-Thumbnail: /.img/lego_psycho_thumb.jpg
+MainImage: /img/lego_psycho.jpg
+Thumbnail: /img/lego_psycho_thumb.jpg
 Tags: lego films
 Category: Lego Films
 

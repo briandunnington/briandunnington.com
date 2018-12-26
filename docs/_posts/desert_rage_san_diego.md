@@ -1,8 +1,8 @@
 Title: Desert Rage - San Diego
 Date: 2006.10.24
 Summary: This past weekend was Desert Rage - San Diego, the third race in the Desert Rage series and the first one I had done outside of Arizona
-MainImage: /.img/lake_hodges.jpg
-Thumbnail: /.img/lake_hodges_thumb.jpg
+MainImage: /img/lake_hodges.jpg
+Thumbnail: /img/lake_hodges_thumb.jpg
 Tags: adventure racing
 Category: Adventure Racing
 

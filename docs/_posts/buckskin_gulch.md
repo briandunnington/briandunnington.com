@@ -1,8 +1,8 @@
 Title: Buckskin Gulch
 Date: 2011.04.13
 Summary: Hiking one of the longest slot canyons in the world
-MainImage: /.img/buckskingulch.jpg
-Thumbnail: /.img/buckskingulch_thumb.jpg
+MainImage: /img/buckskingulch.jpg
+Thumbnail: /img/buckskingulch_thumb.jpg
 Tags: hiking
 Category: outdoors
 
@@ -10,42 +10,42 @@ Along with our visit to Arizona last week, part of our trip was also geared arou
 
 In the end however, the weather held out and we had a great time. The pictures really don't do it justice - it was one of the best trips I have ever been on.
 
-<p><img src="/.img/outdoors/buckskingulch/P1000364.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000367.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000372.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000374.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000376.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000378.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000380.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000381.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000384.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000385.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000388.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000389.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000364.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000391.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000392.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000394.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000396.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000397.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000400.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000402.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000404.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000405.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000407.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000410.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000413.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000416.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000422.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000425.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000426.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000429.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000430.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000433.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000435.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000436.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000441.jpg" class="smallimg" /></p>
-<p><img src="/.img/outdoors/buckskingulch/P1000442.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000364.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000367.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000372.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000374.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000376.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000378.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000380.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000381.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000384.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000385.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000388.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000389.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000364.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000391.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000392.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000394.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000396.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000397.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000400.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000402.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000404.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000405.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000407.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000410.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000413.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000416.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000422.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000425.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000426.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000429.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000430.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000433.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000435.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000436.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000441.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/buckskingulch/P1000442.jpg" class="smallimg" /></p>
 
 Here is a short video showing a particularly narrow spot:
 

@@ -1,8 +1,8 @@
 Title: Big Sky Breakdown - Cancelled
 Date: 2006.06.16
 Summary: On the eve of our big training trip, we got the bad news
-MainImage: /.img/bigskybreakdown.jpg
-Thumbnail: /.img/bigskybreakdown_thumb.jpg
+MainImage: /img/bigskybreakdown.jpg
+Thumbnail: /img/bigskybreakdown_thumb.jpg
 Tags: adventure racing
 Category: Adventure Racing
 

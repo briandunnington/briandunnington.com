@@ -1,8 +1,8 @@
 Title: Splashy Fun on the Sauk
 Date: 2012.08.13
 Summary: Sunny day kayaking on the middle section of the Sauk
-MainImage: /.img/bd_sideyak.jpg
-Thumbnail: /.img/bd_sideyak_thumb.jpg
+MainImage: /img/bd_sideyak.jpg
+Thumbnail: /img/bd_sideyak_thumb.jpg
 Tags: kayaking
 Category: outdoors
 

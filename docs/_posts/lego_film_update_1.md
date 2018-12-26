@@ -1,8 +1,8 @@
 Title: Lego Film Project Update
 Date: 2006.01.11
 Summary: Putting my Lego learnings to the test and starting work on an actual film
-MainImage: /.img/lego_helicopter.jpg
-Thumbnail: /.img/lego_helicopter_thumb.jpg
+MainImage: /img/lego_helicopter.jpg
+Thumbnail: /img/lego_helicopter_thumb.jpg
 Tags: lego films
 Category: Lego Films
 
@@ -16,4 +16,4 @@ I merged the soundtrack with the scenes so far (and wrote a nifty program to hel
 
 **[UPDATE]:** After another (slightly shorter) hiatus, production has started up again. After a doing a couple of test takes of the next scene a couple of weeks ago, I finally got around to filming the final version. Filming went OK, although I had to shoot the entire scene three times before I was happy with it. I still had a noticable light change halfway through the scene, but it was nothing a little post-processing in Photoshop couldnt cure. Anyway, here is a teaser frame from the latest scene.
 
-<p><img src="/.img/lego/clip.jpg" class="smallimg" /></p>
+<p><img src="/img/lego/clip.jpg" class="smallimg" /></p>

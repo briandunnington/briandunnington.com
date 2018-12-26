@@ -1,8 +1,8 @@
 Title: Desert Rage II - Roosevelt Lake
 Date: 2006.04.30
 Summary: Rick promised that the race would be really tough, and he didnt disappoint.
-MainImage: /.img/lakeroosevelt.jpg
-Thumbnail: /.img/lakeroosevelt_thumb.jpg
+MainImage: /img/lakeroosevelt.jpg
+Thumbnail: /img/lakeroosevelt_thumb.jpg
 Tags: adventure racing
 Category: Adventure Racing
 

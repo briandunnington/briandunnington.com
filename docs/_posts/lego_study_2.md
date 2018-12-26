@@ -1,8 +1,8 @@
 Title: Stop-motion Study 2 - New Camera
 Date: 2005.06.23
 Summary: After making a few movies of my own, I am totally hooked on this stop-motion animation stuff. I decided that if I am gonna become a world-renowned lego animator, then I better improve my studio a bit.
-MainImage: /.img/lego_2.jpg
-Thumbnail: /.img/lego_2_thumb.jpg
+MainImage: /img/lego_2.jpg
+Thumbnail: /img/lego_2_thumb.jpg
 Tags: lego films
 Category: Lego Films
 

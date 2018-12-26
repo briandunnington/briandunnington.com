@@ -19,21 +19,21 @@
     <meta property="og:url" content="https://briandunnington.com/">
     <meta property="og:title" content="brian dunnington">
     <meta property="og:description" content="Adventures large and small">
-    <meta property="og:image" content="https://briandunnington.com/.img/bd_bikesunrise.jpg">
+    <meta property="og:image" content="https://briandunnington.com/img/bd_bikesunrise.jpg">
     <meta property="twitter:site" content="@("@briandunnington")">
     <meta property="twitter:creator" content="@("@briandunnington")">
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://briandunnington.com/">
     <meta property="twitter:title" content="brian dunnington">
     <meta property="twitter:description" content="Adventures large and small">
-    <meta property="twitter:image" content="https://briandunnington.com/.img/bd_bikesunrise.jpg">
+    <meta property="twitter:image" content="https://briandunnington.com/img/bd_bikesunrise.jpg">
 
-    <link rel="stylesheet" href="/.css/bootstrap.min.css">
-    <link rel="stylesheet" href="/.css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="/.css/font-opensans.css">
-    <link rel="stylesheet" href="/.css/main.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/css/font-opensans.css">
+    <link rel="stylesheet" href="/css/main.css">
 
-    <script src="/.js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <script src="/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 <body class="home">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -45,7 +45,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/"><img src="/.img/bd_logo.png"> : brian dunnington</a>
+                <a class="navbar-brand" href="/"><img src="/img/bd_logo.png"> : brian dunnington</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
             </div>
@@ -53,7 +53,7 @@
     </nav>
 
     <div class="mainimage">
-        <img class="img-responsive" src="/.img/bd_bikesunrise.jpg" />
+        <img class="img-responsive" src="/img/bd_bikesunrise.jpg" />
     </div>
 
     <div class="jumbotron">
@@ -70,7 +70,7 @@
                     var current = @Model.Posts.OrderByDescending((p) => p.Date).First();
                 }
                 <div>
-                    <img class="img-responsive" src="@(current.Contains("MainImage") && !String.IsNullOrEmpty(current.MainImage) ? current.MainImage : "/.img/bd_bikesunrise.jpg")" />
+                    <img class="img-responsive" src="@(current.Contains("MainImage") && !String.IsNullOrEmpty(current.MainImage) ? current.MainImage : "/img/bd_bikesunrise.jpg")" />
                 </div>
                 <h6 class="muted">@current.Date.ToString("yyyy.MM.dd")</h6>
                 <h2 class="pageTitle">@current.Title</h2>
@@ -85,7 +85,7 @@
             {
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 postlist">
                     <h6 class="muted">@post.Date.ToString("yyyy.MM.dd")</h6>
-                    <p><a href="@post.LinkNoExt" class="thumbnail"><img src="@(post.Contains("Thumbnail") && !String.IsNullOrEmpty(post.Thumbnail) ? post.Thumbnail : "/.img/spacer.png")" /></a></p>
+                    <p><a href="@post.LinkNoExt" class="thumbnail"><img src="@(post.Contains("Thumbnail") && !String.IsNullOrEmpty(post.Thumbnail) ? post.Thumbnail : "/img/spacer.png")" /></a></p>
                     <h4>@post.Title</h4>
                     <p>@post.Summary</p>
                     <p><a class="btn btn-default" href="@post.LinkNoExt" role="button">Read more &raquo;</a></p>
@@ -106,8 +106,8 @@
         </footer>
     </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/.js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-    <script src="/.js/vendor/bootstrap.min.js"></script>
-    <script src="/.js/main.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 </html>

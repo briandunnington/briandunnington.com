@@ -1,8 +1,8 @@
 Title: Kayak Roll Practice
 Date: 2011.07.11
 Summary: Been heading over to Deer Lake for some kayak rolling practice
-MainImage: /.img/bd_sideyak.jpg
-Thumbnail: /.img/bd_sideyak_thumb.jpg
+MainImage: /img/bd_sideyak.jpg
+Thumbnail: /img/bd_sideyak_thumb.jpg
 Tags: kayaking
 Category: outdoors
 

@@ -1,8 +1,8 @@
 Title: April Microadventure - Whidbey Fatbike Beach Ride
 Date: 2013.04.25
 Summary: A ride down the western shore of Whidbey Island and a fun campout under a brilliant full moon
-MainImage: /.img/bikebeachcamp.jpg
-Thumbnail: /.img/bikebeachcamp_thumb.jpg
+MainImage: /img/bikebeachcamp.jpg
+Thumbnail: /img/bikebeachcamp_thumb.jpg
 Tags: biking, microadventure
 Category: outdoors
 

@@ -1,8 +1,8 @@
 Title: Great Divide Mountain Bike Ride
 Date: 2005.10.01
 Summary: Riding my bike 2400 miles from Canada to Mexico
-MainImage: /.img/greatdivideride.jpg
-Thumbnail: /.img/greatdivideride_thumb.jpg
+MainImage: /img/greatdivideride.jpg
+Thumbnail: /img/greatdivideride_thumb.jpg
 Tags: biking
 Category: outdoors
 

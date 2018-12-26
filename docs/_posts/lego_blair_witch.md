@@ -1,8 +1,8 @@
 Title: BrickFest Montage Clip - Blair Witch
 Date: 2006.06.02
 Summary: Recreations of famous scenes, all done in Lego
-MainImage: /.img/lego_blair_witch.jpg
-Thumbnail: /.img/lego_blair_witch_thumb.jpg
+MainImage: /img/lego_blair_witch.jpg
+Thumbnail: /img/lego_blair_witch_thumb.jpg
 Tags: lego films
 Category: Lego Films
 

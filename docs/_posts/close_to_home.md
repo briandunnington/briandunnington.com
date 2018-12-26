@@ -1,8 +1,8 @@
 Title: October Microadventure - Close to Home
 Date: 2013.10.31
 Summary: An adventure very close to home
-MainImage: /.img/darkfire.jpg
-Thumbnail: /.img/darkfire_thumb.jpg
+MainImage: /img/darkfire.jpg
+Thumbnail: /img/darkfire_thumb.jpg
 Tags: microadventure
 Category: outdoors
 

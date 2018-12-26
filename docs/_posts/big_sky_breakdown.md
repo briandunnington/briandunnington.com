@@ -1,8 +1,8 @@
 Title: Big Sky Breakdown
 Date: 2006.05.25
 Summary: The course promises to take racers on a 250-mile course that should take 3 to 4 days to complete.
-MainImage: /.img/bigskybreakdown.jpg
-Thumbnail: /.img/bigskybreakdown_thumb.jpg
+MainImage: /img/bigskybreakdown.jpg
+Thumbnail: /img/bigskybreakdown_thumb.jpg
 Tags: adventure racing
 Category: Adventure Racing
 

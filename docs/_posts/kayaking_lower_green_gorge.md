@@ -1,8 +1,8 @@
 Title: Kayaking the Lower Green Gorge
 Date: 2011.12.05
 Summary: Some some cold-weather kayaking in a beautiful canyon
-MainImage: /.img/greenrivergorge.jpg
-Thumbnail: /.img/greenrivergorge_thumb.jpg
+MainImage: /img/greenrivergorge.jpg
+Thumbnail: /img/greenrivergorge_thumb.jpg
 Tags: kayaking
 Category: outdoors
 

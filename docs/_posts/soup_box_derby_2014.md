@@ -1,8 +1,8 @@
 Title: Soup Box Derby 2014
 Date: 2014.08.20
 Summary: Two bikes hooked together with some metal bits with a kayak strapped on top
-MainImage: /.img/soupboxderby.jpg
-Thumbnail: /.img/soupboxderby_thumb.jpg
+MainImage: /img/soupboxderby.jpg
+Thumbnail: /img/soupboxderby_thumb.jpg
 Tags: Soup Box Derby
 Category: family
 

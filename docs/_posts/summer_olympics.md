@@ -1,8 +1,8 @@
 Title: Summer Olympics
 Date: 2012.07.16
 Summary: This summer's big adventure was to be a 116 mile traverse of the entire Olympic Peninsula by foot and boat
-MainImage: /.img/bearcamp.jpg
-Thumbnail: /.img/bearcamp_thumb.jpg
+MainImage: /img/bearcamp.jpg
+Thumbnail: /img/bearcamp_thumb.jpg
 Tags: kayaking, hiking, Summer Adventure
 Category: outdoors
 

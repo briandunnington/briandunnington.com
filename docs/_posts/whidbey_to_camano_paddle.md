@@ -1,8 +1,8 @@
 Title: March Microadventure - Whidbey to Camano Paddle
 Date: 2013.04.23
 Summary: March microadventure paddle over to Camano Island
-MainImage: /.img/camanopaddle.jpg
-Thumbnail: /.img/camanopaddle_thumb.jpg
+MainImage: /img/camanopaddle.jpg
+Thumbnail: /img/camanopaddle_thumb.jpg
 Tags: kayaking, microadventure
 Category: outdoors
 

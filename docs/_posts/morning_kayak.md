@@ -1,8 +1,8 @@
 Title: Morning Kayak
 Date: 2007.04.19
 Summary: A peaceful morning paddle in Saratoga Passage
-MainImage: /.img/kayak_langley.jpg
-Thumbnail: /.img/kayak_langley_thumb.jpg
+MainImage: /img/kayak_langley.jpg
+Thumbnail: /img/kayak_langley_thumb.jpg
 Tags: kayaking
 Category: outdoors
 
@@ -10,12 +10,12 @@ Today was my second time out for a morning kayak on Puget Sound (in the Saratoga
 
 Boats moored near Langley:
 
-<p><img src="/.img/outdoors/kayak_boats.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/kayak_boats.jpg" class="smallimg" /></p>
 
 Puget Sound:
 
-<p><img src="/.img/outdoors/kayak_sound2.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/kayak_sound2.jpg" class="smallimg" /></p>
 
 Seaside Village of Langley
 
-<p><img src="/.img/outdoors/kayak_langley2.jpg" class="smallimg" /></p>
+<p><img src="/img/outdoors/kayak_langley2.jpg" class="smallimg" /></p>

@@ -1,8 +1,8 @@
 Title: Wallace Falls #microadventure
 Date: 2015.02.05
 Summary: I am determined to get out for a #microadventure each month during 2015
-MainImage: /.img/stream.jpg
-Thumbnail: /.img/stream_thumb.jpg
+MainImage: /img/stream.jpg
+Thumbnail: /img/stream_thumb.jpg
 Tags: hiking, microadventure
 Category: outdoors
 

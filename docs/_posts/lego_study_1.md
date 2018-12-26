@@ -1,8 +1,8 @@
 Title: Stop-motion Study 1 - Software Test
 Date: 2005.06.20
 Summary: For my first venture into stop-motion animation, I figured I would do a few simple software tests to familiarize myself with all of the tools needed to create the final product.
-MainImage: /.img/lego_1.jpg
-Thumbnail: /.img/lego_1_thumb.jpg
+MainImage: /img/lego_1.jpg
+Thumbnail: /img/lego_1_thumb.jpg
 Tags: lego films
 Category: Lego Films
 

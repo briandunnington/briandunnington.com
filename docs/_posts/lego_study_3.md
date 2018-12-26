@@ -1,8 +1,8 @@
 Title: Stop-motion Study 3 - Sound
 Date: 2005.07.05
 Summary: Today I decided to try experimenting with sound in my films. Specifically, I wanted to try sound effects, foley (background sound), and soundtrack music.
-MainImage: /.img/lego_3.jpg
-Thumbnail: /.img/lego_3_thumb.jpg
+MainImage: /img/lego_3.jpg
+Thumbnail: /img/lego_3_thumb.jpg
 Tags: lego films
 Category: Lego Films
 
