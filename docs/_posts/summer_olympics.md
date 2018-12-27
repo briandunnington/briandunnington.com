@@ -11,3 +11,5 @@ Well, this summer's big adventure was to be a 116 mile traverse of the entire Ol
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pcCVvNE8eVw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+This is the origins of the Lost Paddle Award<sup>™</sup> that would wind up becoming a bit of an unfortunate theme for future adventures.

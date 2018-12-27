@@ -18,19 +18,19 @@ The trek was entirely uphill for the first half (in order to gain the ridge and 
 
 Near the top, the trail forked and we initally took the right path. this lead to a beautiful view of the surrounding area.
 
-<p><img src="/img/outdoors/skylinesnowshoe/atthetop.jpg" width="560"></p>
+<p><img src="/img/outdoors/skylinesnowshoe/atthetop.jpg" class="smallimg" /></p>
 
 After taking in the views, we retreated downhill several hundred yards and then took the left path to the lake. It was completely frozen over and snow covered with lots of tracks right across the middle of it.
 
-<p><img src="/img/outdoors/skylinesnowshoe/atthelake.jpg" width="560"></p>
+<p><img src="/img/outdoors/skylinesnowshoe/atthelake.jpg" class="smallimg" /></p>
 
 A nearby small peak called out to be climbed, but we decided to eat our lunch instead and just enjoy the scenery and our accomplishment.
 
-<p><img src="/img/outdoors/skylinesnowshoe/frozenlake.jpg" width="560"></p>
+<p><img src="/img/outdoors/skylinesnowshoe/frozenlake.jpg" class="smallimg" /></p>
 
 After a nice lunch, we turned around and headed down. The going down was much easier, minus the out-of-control sledders and frigid wind blasts.
 
-<p><img src="/img/outdoors/skylinesnowshoe/alldone.jpg" width="560"></p>
+<p><img src="/img/outdoors/skylinesnowshoe/alldone.jpg" class="smallimg" /></p>
 
 Everyone ended the day with a smile on their face, so I would have to say that it was a very nice trip.
 
