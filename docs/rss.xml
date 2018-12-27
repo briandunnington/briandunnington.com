@@ -7,8 +7,8 @@
         <description>RSS feed for website</description>
         <language>en-us</language>
         <copyright>Copyright 2015 - Brian Dunnington</copyright>
-        <pubDate>Thu, 27 Dec 2018 03:59:46 GMT</pubDate>
-        <lastBuildDate>Thu, 27 Dec 2018 03:59:46 GMT</lastBuildDate>
+        <pubDate>Thu, 27 Dec 2018 04:24:15 GMT</pubDate>
+        <lastBuildDate>Thu, 27 Dec 2018 04:24:15 GMT</lastBuildDate>
 
         <item>
             <title>Soup Box Derby 2015</title>
@@ -1942,6 +1942,23 @@ Modes of transportation used: 7 (float plane, walking, bus, helicopter, train, s
             <pubDate>Wed, 30 Aug 2006 12:00:00 GMT</pubDate>
             <guid>https://briandunnington.com/flagstaff_ar_2</guid>
             <image>https://briandunnington.com/img/flagstaff_ar_thumb.jpg</image>
+        </item>
+        <item>
+            <title>Stop-motion Studies - Unfinished Masterpiece</title>
+            <link>https://briandunnington.com/lego_unfinished_masterpiece</link>
+            <description><![CDATA[
+<div><img src='https://briandunnington.com/img/lego_talking.jpg' style='max-width:100%;height:auto;' /></div><p>I may never finish my Lego stop-motion film, so I am going to share it with the world as-is. This was my first attempt at a proper film, and I learned a lot about the process while making it. It is not very long (and has almost no plot), but it took a surprising amount of work just to get this far.</p>
+
+<p>Anyway, enjoy it in all of its unfinished glory:</p>
+
+<p>
+<iframe width="740" height="416" src="https://www.youtube.com/embed/Q01Dbve4Y_U?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+]]></description>
+            <pubDate>Thu, 10 Aug 2006 12:00:00 GMT</pubDate>
+            <guid>https://briandunnington.com/lego_unfinished_masterpiece</guid>
+            <image>https://briandunnington.com/img/lego_talking_thumb.jpg</image>
         </item>
         <item>
             <title>Cellar Door - Finally Done</title>
