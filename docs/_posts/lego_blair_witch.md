@@ -4,7 +4,7 @@ Summary: Recreations of famous scenes, all done in Lego
 MainImage: /img/lego_blair_witch.jpg
 Thumbnail: /img/lego_blair_witch_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 Every year there is this big convention type thing related to Legos that is called Brickfest ([http://www.brickfest.com][Brickfest]). As part of Brickfest, Brickfilms usually sponsors an animation contest that goes along with the theme of Brickfest. Many animators participate, and some of the best lego movies of the year come from competitions like this.
 

@@ -4,7 +4,7 @@ Summary: It was a beautiful day to race up in flagstaff - the weather was great,
 MainImage: /img/flagstaff_ar.jpg
 Thumbnail: /img/flagstaff_ar_thumb.jpg
 Tags: adventure racing
-Category: Adventure Racing
+Category: adventureracing
 
 It was a beautiful day to race up in flagstaff - the weather was great, the leaves were changing colors, and Mark put together a fun race for the series finale. Team Sierra Adventure Sports was hoping to do well following their 1st place division finish at the last race. Alas, it was not our day and we finished 3rd (out of only three teams in our division) and only a couple places up from being last overall.
 

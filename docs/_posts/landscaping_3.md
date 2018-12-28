@@ -4,7 +4,7 @@ Summary: The third exciting installment of our landscaping adventures
 MainImage: /img/1805Scenic.jpg
 Thumbnail: /img/1805Scenic_thumb.jpg
 Tags: home, 1805 Scenic
-Category: home improvement
+Category: homeimprovement
 
 In case you missed the first two exciting installments, let's recap:
 

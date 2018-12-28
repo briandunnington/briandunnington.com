@@ -4,7 +4,7 @@ Summary: A couple of weeks back, we decided to start our landscaping in earnest
 MainImage: /img/tractor_work.jpg
 Thumbnail: /img/tractor_work_thumb.jpg
 Tags: home, 1805 Scenic
-Category: home improvement
+Category: homeimprovement
 
 A couple of weeks back, we decided to start our landscaping in earnest. The first step was to get the 7-foot tall weeds mowed down so we could see what we were dealing with. We rented a tractor from the local rental place to do the job quickly:
 

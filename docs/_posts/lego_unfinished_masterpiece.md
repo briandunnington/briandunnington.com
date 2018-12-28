@@ -4,7 +4,7 @@ Summary: I may never finish it, so I am sharing my masterpiece as-is
 MainImage: /img/lego_talking.jpg
 Thumbnail: /img/lego_talking_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 I may never finish my Lego stop-motion film, so I am going to share it with the world as-is. This was my first attempt at a proper film, and I learned a lot about the process while making it. It is not very long (and has almost no plot), but it took a surprising amount of work just to get this far.
 

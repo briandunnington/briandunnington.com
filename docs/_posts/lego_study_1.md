@@ -4,7 +4,7 @@ Summary: For my first venture into stop-motion animation, I figured I would do a
 MainImage: /img/lego_1.jpg
 Thumbnail: /img/lego_1_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 For my first venture into stop-motion animation, I figured I would do a few simple software tests to familiarize myself with all of the tools needed to create the final product. Really, I only tested the video capture software ([MonkeyJam][]), the compositing software (Axogon Composer), and the encoding software ([VirtualDub][] using the [Xvid][] codec). (Other software dealing with sound effects and audio will have to wait until I get to that point in my testing).
 

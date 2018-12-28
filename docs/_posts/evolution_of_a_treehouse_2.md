@@ -4,7 +4,7 @@ Summary: Adding the walls
 MainImage: /img/treehouse.jpg
 Thumbnail: /img/treehouse_thumb.jpg
 Tags: home, 1805 Scenic, treehouse
-Category: home improvement
+Category: homeimprovement
 
 Framing:
 <p><img src="/img/treehouse/framing.jpg" class="smallimg" /></p>

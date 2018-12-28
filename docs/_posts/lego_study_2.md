@@ -4,7 +4,7 @@ Summary: After making a few movies of my own, I am totally hooked on this stop-m
 MainImage: /img/lego_2.jpg
 Thumbnail: /img/lego_2_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 After seeing Josh's movies and making a few of my own, I am totally hooked on this stop-motion animation stuff. I decided that if I am gonna become a world-renowned lego animator, then I better improve my studio a bit. I bought a new [Logitech QuickCam Pro 4000 camera][Camera] and a couple of cheap desk lamps from target (one with a fancy clip-thingy for a base). The Logitech camera seems to be the camera of choice for a lot of folks on [brickfilms.com][BrickFilms], and I see why. The quaility of the picture is great, and it has built in zoom and pan functionality. (It has a built-in microphone as well, but that will have to wait for another day).
 

@@ -4,7 +4,7 @@ Summary: The course promises to take racers on a 250-mile course that should tak
 MainImage: /img/bigskybreakdown.jpg
 Thumbnail: /img/bigskybreakdown_thumb.jpg
 Tags: adventure racing
-Category: Adventure Racing
+Category: adventureracing
 
 So, I have done more than 10 adventure races over the past three years, including 4 just this year so far. But all of these have been of the 'sprint' type, which does not mean you have to sprint during them, but they are fairly short, taking 3 to 8 hours to cover 15 to 30 miles. The most recent Desert Rage at Roosevelt Lake was a little longer, taking me nearly 12 full hours to complete, but still considered a sprint. I have thought about doing a couple 24-hour events, but so far everything has fell through.
 

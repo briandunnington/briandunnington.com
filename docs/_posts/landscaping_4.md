@@ -4,7 +4,7 @@ Summary: The one where we get a yard
 MainImage: /img/grass.jpg
 Thumbnail: /img/grass_thumb.jpg
 Tags: home, 1805 Scenic
-Category: home improvement
+Category: homeimprovement
 
 Actually, this is parts 4 and 5 all rolled into one. When last we left the backyard, it was shaping up, but still had a long way to go.
 

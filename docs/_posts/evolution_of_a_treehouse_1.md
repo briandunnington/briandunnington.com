@@ -4,7 +4,7 @@ Summary: Start with two trees...
 MainImage: /img/treehouse.jpg
 Thumbnail: /img/treehouse_thumb.jpg
 Tags: home, 1805 Scenic, treehouse
-Category: home improvement
+Category: homeimprovement
 
 Step 1 - You might think we should start with the tree, but I didnt take any pictures of the trees before I started, so lets skip ahead.
 

@@ -4,7 +4,7 @@ Summary: Wrapped up a few summer projects
 MainImage: /img/summer_projects.jpg
 Thumbnail: /img/summer_projects_thumb.jpg
 Tags: home, 1805 Scenic, chickens
-Category: home improvement
+Category: homeimprovement
 
 Finally got a couple of summer projects wrapped up so I decided to share a few pictures.
 

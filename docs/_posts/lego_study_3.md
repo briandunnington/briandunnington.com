@@ -4,7 +4,7 @@ Summary: Today I decided to try experimenting with sound in my films. Specifical
 MainImage: /img/lego_3.jpg
 Thumbnail: /img/lego_3_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 Well, I am not following my original plan at all as far as what aspects of stop-motion animation I would explore next, but I am having fun, so who cares. Today I decided to try experimenting with sound in my films. specifically, I wanted to try sound effects, foley (background sound), and soundtrack music.
 

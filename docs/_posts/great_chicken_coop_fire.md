@@ -4,7 +4,7 @@ Summary: Luckily all of the chickens made it out safely
 MainImage: /img/coop_fire.jpg
 Thumbnail: /img/coop_fire_thumb.jpg
 Tags: home, 1805 Scenic, chickens
-Category: home improvement
+Category: homeimprovement
 
 Before:
 <p><img src="/img/chickens/before.jpg" class="smallimg" /></p>

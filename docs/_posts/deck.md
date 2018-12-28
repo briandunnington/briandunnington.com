@@ -4,7 +4,7 @@ Summary: The deck isnt quite done, but check out the progress so far
 MainImage: /img/deck.jpg
 Thumbnail: /img/deck_thumb.jpg
 Tags: home, 1805 Scenic
-Category: home improvement
+Category: homeimprovement
 
 The back deck isnt quite finished, but it is close. Check out the transformation:
 

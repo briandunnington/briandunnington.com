@@ -6,6 +6,8 @@ Thumbnail: /img/mtsthelens_thumb.jpg
 Tags: climbing
 Category: outdoors
 
-Didn't make the summit last year due to whiteout conditions, but returned this year with Chris, Andy, Conner, and Zack to try again. Windy, rainy, cloudy weather made for a long cold day, but everyone reached the summit and (hopefully) had a good time.
+Didn't make the summit [last year due to whiteout conditions][LastYear], but returned this year with Chris, Andy, Conner, and Zack to try again. Windy, rainy, cloudy weather made for a long cold day, but everyone reached the summit and (hopefully) had a good time.
 
 <p><img src="/img/outdoors/mtsthelenssummit.jpg" class="smallimg" /></p>
+
+[LastYear]: /climbing_mt_st_helens_1

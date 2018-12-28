@@ -4,7 +4,7 @@ Summary: Today I decided to try experimenting with sound in my films. Specifical
 MainImage: /img/lego_talking.jpg
 Thumbnail: /img/lego_talking_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 Although I have not yet finished my first film, I have still been experimenting with different animation techniques. For this test, I wanted to play with animating the Lego figure's face to give more expression and the illusion of actually speaking. A great example of this technique is the Rapunzel short by Jay Silver - notice how the facial expressions really convey the minifig's emotions:
 

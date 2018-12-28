@@ -4,7 +4,7 @@ Summary: Another famous scene done in Lego
 MainImage: /img/lego_psycho.jpg
 Thumbnail: /img/lego_psycho_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 Here is my second attempt at a montage clip for the [Brickfest][] montage. It is not technically perfect, but I had a lot of fun making it, and hopefully it is recognizable even though the movie is over 40 years old.
 

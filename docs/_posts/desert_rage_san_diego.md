@@ -4,7 +4,7 @@ Summary: This past weekend was Desert Rage - San Diego, the third race in the De
 MainImage: /img/lake_hodges.jpg
 Thumbnail: /img/lake_hodges_thumb.jpg
 Tags: adventure racing
-Category: Adventure Racing
+Category: adventureracing
 
 This past weekend was Desert Rage - San Diego, the third race in the Desert Rage series and the first one I had done outside of Arizona. The event took place on Lake Hodges, and although i had high hopes of spotting [Hodgee][], he was nowhere to be seen that day.
 

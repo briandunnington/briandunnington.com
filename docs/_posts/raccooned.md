@@ -4,7 +4,7 @@ Summary: RIP Penny, Dominique, & Alfonso
 MainImage: /img/rip.jpg
 Thumbnail: /img/rip_thumb.jpg
 Tags: home, 1805 Scenic, chickens
-Category: home improvement
+Category: homeimprovement
 
 4 chickens + 1 raccoon = 1 chicken =(
 

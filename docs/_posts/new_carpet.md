@@ -4,7 +4,7 @@ Summary: Spent last week ripping out the old carpet in my bedroom and office, pa
 MainImage: /img/new_carpet.jpg
 Thumbnail: /img/new_carpet_thumb.jpg
 Tags: home, 2046 Dayton
-Category: home improvement
+Category: homeimprovement
 
 Spent last week ripping out the old carpet in my bedroom and office, painting the walls, and getting new carpet installed. Turned out pretty good I think.
 

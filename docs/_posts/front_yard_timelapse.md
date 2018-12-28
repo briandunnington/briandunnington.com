@@ -4,7 +4,7 @@ Summary: From dirt pile to lush green grass in two minutes
 MainImage: /img/frontyard.jpg
 Thumbnail: /img/frontyard_thumb.jpg
 Tags: home, 1805 Scenic
-Category: home improvement
+Category: homeimprovement
 
 How to turn 32,000 pounds of rocks into a beautiful retaining wall:
 

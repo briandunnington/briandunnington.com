@@ -4,23 +4,44 @@ Summary: Roof, ladder, and railings
 MainImage: /img/treehouse.jpg
 Thumbnail: /img/treehouse_thumb.jpg
 Tags: home, 1805 Scenic, treehouse
-Category: home improvement
+Category: homeimprovement
 
 Wrapped up some work on the treehouse awhile ago, but never posted the pictures, so you here go:
 
-<p><img src="/img/treehouse/ladder.jpg" class="smallimg" /></p>
-Finally replaced the aluminum extension ladder with a real ladder - very sturdy and nice
+<p>
+<figure><img src="/img/treehouse/ladder.jpg" class="smallimg" />
+<figcaption>Finally replaced the aluminum extension ladder with a real ladder - very sturdy and nice<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/treehouse/structure.jpg" class="smallimg" /></p>
-Up the ladder...
+<p>
+<figure><img src="/img/treehouse/ladder.jpg" class="smallimg" />
+<figcaption>Finally replaced the aluminum extension ladder with a real ladder - very sturdy and nice<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/treehouse/railing.jpg" class="smallimg" /></p>
-We made the railing out of some fallen trees from around our property
+<p>
+<figure><img src="/img/treehouse/structure.jpg" class="smallimg" />
+<figcaption>Up the ladder...<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/treehouse/sideview.jpg" class="smallimg" /></p>
-Here it is almost done
+<p>
+<figure><img src="/img/treehouse/railing.jpg" class="smallimg" />
+<figcaption>We made the railing out of some fallen trees from around our property<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/treehouse/fromafar.jpg" class="smallimg" /></p>
-View from the yard
+<p>
+<figure><img src="/img/treehouse/sideview.jpg" class="smallimg" />
+<figcaption>Here it is almost done<figcaption>
+</figure>
+</p>
+
+<p>
+<figure><img src="/img/treehouse/fromafar.jpg" class="smallimg" />
+<figcaption>View from the yard<figcaption>
+</figure>
+</p>
 
 The treehouse is not quite done - still needs a handrail on the ladder and some window screens, but constructions is wrapped up for the winter.

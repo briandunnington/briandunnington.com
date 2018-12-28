@@ -4,7 +4,7 @@ Summary: Putting my Lego learnings to the test and starting work on an actual fi
 MainImage: /img/lego_helicopter.jpg
 Thumbnail: /img/lego_helicopter_thumb.jpg
 Tags: lego films
-Category: Lego Films
+Category: legofilms
 
 Right before I left for my bike trip, I talked with Josh and decided to do a film based sort of on the show '24' (his countdown timer was the inspiration).
 

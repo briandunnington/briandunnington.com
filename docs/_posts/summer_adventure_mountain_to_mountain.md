@@ -10,27 +10,62 @@ This year's Summer Adventure idea was cooked up by Chris: how about we climb Mt.
 
 After the last couple of adventures and too many Lost Paddle Awards<sup>™</sup> to list, I was definitely worried about our chances of success. But in the end, we didn't have any (major) issues, completed the entire adventure, and even had a little bit of fun doing it.
 
-<p><img src="/img/outdoors/mt_to_mt/adams_depart.jpg" class="largeimg" /></p>
-Heading out for the climb up Mt. Adams
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/adams_depart.jpg" class="largeimg"  />
+<figcaption>Heading out for the climb up Mt. Adams<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/approach.jpg" class="largeimg" /></p>
-First stop: top of that mountain
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/approach.jpg" class="largeimg"  />
+<figcaption>First stop: top of that mountain<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/sunset1.jpg" class="largeimg" /></p>
-<p><img src="/img/outdoors/mt_to_mt/sunset2.jpg" class="largeimg" /></p>
-Sunset on the flanks of Mt. Adams
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/sunset1.jpg" class="largeimg"  />
+</figure>
+</p>
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/sunset2.jpg" class="largeimg"  />
+<figcaption>Sunset on the flanks of Mt. Adams<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/summit_adams.jpg" class="largeimg" /></p>
-On top of Mt. Adams
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/summit_adams.jpg" class="largeimg"  />
+<figcaption>On top of Mt. Adams<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/sthelens.jpg" class="largeimg" /></p>
-View of Mt. St. Helens from the summit of Mt. Adams
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/sthelens.jpg" class="largeimg"  />
+<figcaption>View of Mt. St. Helens from the summit of Mt. Adams<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/bike_depart.jpg" class="largeimg" /></p>
-Back down - heading out on the bikes
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/bike_depart.jpg" class="largeimg"  />
+<figcaption>Back down - heading out on the bikes<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/bike.jpg" class="largeimg" /></p>
-Somewhere in the Dark Divide
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/bike.jpg" class="largeimg"  />
+<figcaption>Somewhere in the Dark Divide<figcaption>
+</figure>
+</p>
 
-<p><img src="/img/outdoors/mt_to_mt/adams.jpg" class="largeimg" /></p>
-View of Mt. Adams from the summit of Mt. St. Helens
+<p>
+<figure><img src="/img/outdoors/mt_to_mt/adams.jpg" class="largeimg"  />
+<figcaption>View of Mt. Adams from the summit of Mt. St. Helens<figcaption>
+</figure>
+</p>
+
+Previous Summer Adventures:
+
+* 2013 - [WaMBR Trail][2013]
+* 2012 - [Summer Olympics][2012]
+
+[2013]: /summer_adventure_wambr
+[2012]: /summer_olympics

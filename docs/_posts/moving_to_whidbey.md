@@ -4,7 +4,7 @@ Summary: We found a great place that is on 5 treed acres on top of a hill, with 
 MainImage: /img/bd_ferngully.jpg
 Thumbnail: /img/bd_ferngully_thumb.jpg
 Tags: home, Whidbey
-Category: home improvement
+Category: homeimprovement
 
 Well, my house finally sold. It was a quick and easy closing, so that part was nice. The worst part was moving out - not the house (since i dont have hardly any possessions), but the garage, since it was filled with hundreds of landcruiser parts of all shapes and sizes. I actually missed out on all of the fun of the move since I was out of the state at the time, but Michaleen and her girls saved the day by handling it all for me. I owe them big time.
 
