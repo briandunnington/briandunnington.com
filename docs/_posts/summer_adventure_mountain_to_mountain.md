@@ -1,6 +1,6 @@
 Title: Summer Adventure - Mountain to Mountain
 Date: 2014.08.07
-Summary: This summer's big adventure was to be a 116 mile traverse of the entire Olympic Peninsula by foot and boat
+Summary: This year's Summer Adventure idea was cooked up by Chris and involved climbing not one but two mountains
 MainImage: /img/mt_to_mt.jpg
 Thumbnail: /img/mt_to_mt_thumb.jpg
 Tags: biking, hiking, climbing, Summer Adventure

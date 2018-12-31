@@ -1,6 +1,6 @@
 Title: Trip to Canada, eh?
 Date: 2008.04.18
-Summary: Look who came walking up our trail
+Summary: Two cities visited, seven modes of transportation used
 MainImage: /img/seaplane.jpg
 Thumbnail: /img/seaplane_thumb.jpg
 Tags: travel, Canada

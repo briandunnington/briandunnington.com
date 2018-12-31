@@ -1,6 +1,6 @@
 Title: Hiking @ Goose Rock
 Date: 2011.03.27
-Summary: Hiking with the family to the to of Whidbey Island
+Summary: Hiking with the family to the top of Whidbey Island
 MainImage: /img/gooserock.jpg
 Thumbnail: /img/gooserock_thumb.jpg
 Tags: hiking

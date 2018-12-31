@@ -1,8 +1,8 @@
 Title: #30DaysOfBiking
 Date: 2013.05.01
 Summary: Riding my bike every day of April for the #30DaysOfBiking challenge
-MainImage: /img/30dob.jpg
-Thumbnail: /img/30dob_thumb.jpg
+MainImage: /img/bd_beachbikesolitude.jpg
+Thumbnail: /img/bd_beachbikesolitude_thumb.jpg
 Tags: biking
 Category: outdoors
 

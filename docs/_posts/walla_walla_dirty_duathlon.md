@@ -1,6 +1,6 @@
 Title: Walla Walla Dirty Duathlon
 Date: 2014.03.09
-Summary: A fun race the completely lived up to its name
+Summary: A fun race that completely lived up to its name
 MainImage: /img/wwdd.jpg
 Thumbnail: /img/wwdd_thumb.jpg
 Tags: adventure racing

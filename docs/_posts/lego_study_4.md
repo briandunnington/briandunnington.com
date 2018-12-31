@@ -1,6 +1,6 @@
 Title: Stop-motion Study 4 - Mouth Animation
 Date: 2006.06.16
-Summary: Today I decided to try experimenting with sound in my films. Specifically, I wanted to try sound effects, foley (background sound), and soundtrack music.
+Summary: For this test, I wanted to play with animating the Lego figure's face to give more expression and the illusion of actually speaking
 MainImage: /img/lego_talking.jpg
 Thumbnail: /img/lego_talking_thumb.jpg
 Tags: lego films

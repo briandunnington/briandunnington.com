@@ -1,6 +1,6 @@
 Title: Soup Box Derby 2015
 Date: 2015.09.02
-Summary: Two bikes hooked together with some metal bits with a kayak strapped on top
+Summary: Two bikes hooked together with some metal bits with some office chairs strapped on top
 MainImage: /img/soupboxderby.jpg
 Thumbnail: /img/soupboxderby_thumb.jpg
 Tags: Soup Box Derby

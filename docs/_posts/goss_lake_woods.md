@@ -6,7 +6,7 @@ Thumbnail: /img/bd_ferngully_thumb.jpg
 Tags: biking
 Category: outdoors
 
-Having moved up here to Whidbey Island, it had been several months since I had ridden my bike and I had yet to get out and explore what the area had to offer. For christmas, I had received [Kissing the Trail[KissingTheTrail], a mountain biking book containing 'Greater Seattle Mountain Bike Adventures'. I was anxious to get out for a local ride, so I turned to the section on Whidbey Island to see what I could find. Although there were only two local rides listed, the trails at [Goss Lake Woods][GossLakeWoods] were described as narrow and twisty, with **minimal elevation gain** - how could I pass that up? (By the way, that was their emphasis, not mine) =). After a short drive to the trailhead, I pedaled out into the slightly damp forest along a picturesque trail.
+Having moved up here to Whidbey Island, it had been several months since I had ridden my bike and I had yet to get out and explore what the area had to offer. For christmas, I had received [Kissing the Trail][KissingTheTrail], a mountain biking book containing 'Greater Seattle Mountain Bike Adventures'. I was anxious to get out for a local ride, so I turned to the section on Whidbey Island to see what I could find. Although there were only two local rides listed, the trails at [Goss Lake Woods][GossLakeWoods] were described as narrow and twisty, with **minimal elevation gain** - how could I pass that up? (By the way, that was their emphasis, not mine) =). After a short drive to the trailhead, I pedaled out into the slightly damp forest along a picturesque trail.
 
 <p><img src="/img/outdoors/glw_trailhead.jpg" class="smallimg" /></p>
 

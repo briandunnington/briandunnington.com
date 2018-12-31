@@ -1,6 +1,6 @@
 Title: Married
 Date: 2011.10.01
-Summary: Pretty amazing what you can make out of some glitter and beads
+Summary: Dun-dun-dah-da, dun-dun-dah-da
 MainImage: /img/bd_wedding.jpg
 Thumbnail: /img/bd_wedding_thumb.jpg
 Category: family
