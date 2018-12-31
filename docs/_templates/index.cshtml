@@ -14,19 +14,19 @@
 
     <title>brian dunnington</title>
     <meta name="title" content="brian dunnington">
-    <meta name="description" content="Adventures large and small">
+    <meta name="description" content="@Model.CurrentItem.Summary">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://briandunnington.com/">
-    <meta property="og:title" content="brian dunnington">
-    <meta property="og:description" content="Adventures large and small">
-    <meta property="og:image" content="https://briandunnington.com/img/bd_bikesunrise.jpg">
+    <meta property="og:url" content="@("https://briandunnington.com")">
+    <meta property="og:title" content="@Model.CurrentItem.Title">
+    <meta property="og:description" content="@Model.CurrentItem.Summary">
+    <meta property="og:image" content="@("https://briandunnington.com" + (@Model.CurrentItem.Contains("MainImage") && !String.IsNullOrEmpty(@Model.CurrentItem.MainImage) ? @Model.CurrentItem.MainImage : "/img/bd_bikesunrise.jpg"))">
     <meta property="twitter:site" content="@("@briandunnington")">
     <meta property="twitter:creator" content="@("@briandunnington")">
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://briandunnington.com/">
-    <meta property="twitter:title" content="brian dunnington">
-    <meta property="twitter:description" content="Adventures large and small">
-    <meta property="twitter:image" content="https://briandunnington.com/img/bd_bikesunrise.jpg">
+    <meta property="twitter:url" content="@("https://briandunnington.com")">
+    <meta property="twitter:title" content="@Model.CurrentItem.Title">
+    <meta property="twitter:description" content="@Model.CurrentItem.Summary">
+    <meta property="twitter:image" content="@("https://briandunnington.com" + (@Model.CurrentItem.Contains("MainImage") && !String.IsNullOrEmpty(@Model.CurrentItem.MainImage) ? @Model.CurrentItem.MainImage : "/img/bd_bikesunrise.jpg"))">
 
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
