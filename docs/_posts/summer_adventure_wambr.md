@@ -6,7 +6,7 @@ Thumbnail: /img/wambr_thumb.jpg
 Tags: biking, Summer Adventure
 Category: outdoors
 
-After last year's [Summer Olympics][SummerOlympics] trip, Chris and I decided to make it an annual tradition to go on a hair-brained adventure. This year I wanted to go map and ride the WaMBR Trail - a mountain bike route that I hoped would span the entire length of the state from Canada to Oregon.
+After last year's [Summer Olympics][2012] trip, Chris and I decided to make it an annual tradition to go on a hair-brained adventure. This year I wanted to go map and ride the WaMBR Trail - a mountain bike route that I hoped would span the entire length of the state from Canada to Oregon.
 
 <p>
 <figure><img src="/img/outdoors/wambr/boundary.jpg" class="largeimg" />
@@ -51,5 +51,4 @@ Previous Summer Adventures:
 * 2012 - [Summer Olympics][2012]
 
 [2012]: /summer_olympics
-
 [BlueBuck]: https://www.mtbproject.com/trail/7014007/blue-buck-trail-421

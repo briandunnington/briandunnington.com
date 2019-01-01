@@ -23,12 +23,12 @@ No photos from during the actual race, but you can see the after affects from th
 </p>
 
 <p>
-<figure><img src="/img/outdoors/wwdd/defailleur.jpg" class="largeimg" />
+<figure><img src="/img/outdoors/wwdd/derailleur.jpg" class="largeimg" />
 </figure>
 </p>
 
 <p>
-<figure><img src="/img/outdoors/wwdd/dirtyface.jpg" class="smallimg" />
+<figure><img src="/img/outdoors/wwdd/dirtyface.jpg" class="largeimg" />
 </figure>
 </p>
 

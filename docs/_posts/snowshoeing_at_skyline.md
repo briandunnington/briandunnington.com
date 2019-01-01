@@ -6,7 +6,7 @@ Thumbnail: /img/skyline_lake_thumb.jpg
 Tags: snowshoeing
 Category: outdoors
 
-This past weekend, we decided to take advantage of the winter weather and do some snowshoeing. We decided on a spot up [at Stevens Pass[Map] that offered a short 3-mile round-trip trek with a lake at the top.
+This past weekend, we decided to take advantage of the winter weather and do some snowshoeing. We decided on a spot up [at Stevens Pass][Map] that offered a short 3-mile round-trip trek with a lake at the top.
 
 When we arrived, it was overcast, windy, and downright chilly. But we bundled up and headed out anyway. However, not too far into the trek, the sun came out and we had beautiful blue skies.
 

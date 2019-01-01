@@ -23,4 +23,13 @@
         });
         adjust();
     })();
+
+    // make post images clickable
+    (function () {
+        var imgs = $('.largeimg, .smallimg');
+        imgs.css("cursor", "pointer");
+        imgs.on('click', function (e) {
+            window.open(e.target.src);
+        })
+    })();
 })();
