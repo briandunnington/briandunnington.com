@@ -1,5 +1,6 @@
 Title: brian dunnington - About Me
 Summary: A little bit about this blog
+Priority: 0.80
 
 This blog is a collection of a lot of my different interests over the last 15 years.
 
