@@ -13,3 +13,5 @@ After raving about how peaceful my [morning kayaking in Langley][Morning] was, I
 <p><img src="/img/outdoors/kayak_saratoga2.jpg" class="largeimg" /></p>
 
 Look at that smile!
+
+[Morning]: /morning_kayak

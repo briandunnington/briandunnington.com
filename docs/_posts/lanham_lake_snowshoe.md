@@ -8,7 +8,7 @@ Category: outdoors
 
 Inspired by [Alastair Humphrey's idea of microadventures][Microadventures], I decided I would try to do a small adventure once every month in 2013. Well, January came and went and I didnt do anything - not a great start. February was quickly passing as well and eventually I found myself on the last day of the month and I still hadnt done a thing. That just wouldnt do though, so I decided I better get out there before the month completely passed me by.
 
-Since it is wintertime here in the Pacific Northwest, I wanted to take advantage of the snow. I planned to snowshoe and camp up at Artist Point, near Mt. Baker. However, a bunch of warm weather and rain had caused the avalanche danger to increase significantly. Not to be deterred, I pulled out my copy of [Snowshoe Routes - Washington][ShowshoeRoutes] to look for an alternative. Lanham Lake near Stevens Pass stood out as a nice short trip with a great little lake to camp at and virtually no avalanche danger. So I hopped in my truck and headed out.
+Since it is wintertime here in the Pacific Northwest, I wanted to take advantage of the snow. I planned to snowshoe and camp up at Artist Point, near Mt. Baker. However, a bunch of warm weather and rain had caused the avalanche danger to increase significantly. Not to be deterred, I pulled out my copy of [Snowshoe Routes - Washington][SnowshoeRoutes] to look for an alternative. Lanham Lake near Stevens Pass stood out as a nice short trip with a great little lake to camp at and virtually no avalanche danger. So I hopped in my truck and headed out.
 
 <p><img src="/img/outdoors/lanhamlake/creek.jpg" class="smallimg" /></p>
 
