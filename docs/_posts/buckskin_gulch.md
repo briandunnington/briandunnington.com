@@ -17,7 +17,6 @@ In the end however, the weather held out and we had a great time. The pictures r
 <p><img src="/img/outdoors/buckskingulch/P1000376.jpg" class="smallimg" /></p>
 <p><img src="/img/outdoors/buckskingulch/P1000378.jpg" class="smallimg" /></p>
 <p><img src="/img/outdoors/buckskingulch/P1000380.jpg" class="smallimg" /></p>
-<p><img src="/img/outdoors/buckskingulch/P1000381.jpg" class="smallimg" /></p>
 <p><img src="/img/outdoors/buckskingulch/P1000384.jpg" class="smallimg" /></p>
 <p><img src="/img/outdoors/buckskingulch/P1000385.jpg" class="smallimg" /></p>
 <p><img src="/img/outdoors/buckskingulch/P1000388.jpg" class="smallimg" /></p>
