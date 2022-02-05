@@ -14,7 +14,7 @@ Finally got out for my first proper [#microadventure][Microadventures] in severa
 
 <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
-  if (Hls.isSupported()) {
+
     var vids = ["https://video.twimg.com/ext_tw_video/1485415267605778432/pu/pl/2_v3zBxnfaWK1Uhn.m3u8?tag=12&container=fmp4","https://video.twimg.com/ext_tw_video/1485421183344386050/pu/pl/pUI1RlzuQ_6ytDOw.m3u8?tag=12&container=fmp4"];
 
     var hlses = [];
@@ -22,18 +22,21 @@ Finally got out for my first proper [#microadventure][Microadventures] in severa
     for (var i=0;i<vids.length;i++)
     {
         var video = document.getElementById(`video${i}`);
-        video.twitterSourceVid = vids[i];
-        var hls = new Hls();
-        hls.on(Hls.Events.MEDIA_ATTACHED, function () {
-            this.loadSource(this.media.twitterSourceVid);
-            this.on(Hls.Events.MANIFEST_PARSED, function () {
-                this.media.play();
+        if (Hls.isSupported()) {
+            video.twitterSourceVid = vids[i];
+            var hls = new Hls();
+            hls.on(Hls.Events.MEDIA_ATTACHED, function () {
+                this.loadSource(this.media.twitterSourceVid);
+                this.on(Hls.Events.MANIFEST_PARSED, function () {
+                    this.media.play();
+                });
             });
-        });
-        hls.attachMedia(video);
-        hlses[i] = hls;
+            hls.attachMedia(video);
+            hlses[i] = hls;
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = vids[i];
+        }
     }
-  }
 </script>
 
 [Microadventures]: http://www.microadventures.org/
