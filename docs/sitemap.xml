@@ -7,50 +7,55 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://briandunnington.com</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/allposts</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.90</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/about</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/adventureracing</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/boat</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/family</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/homeimprovement</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/legofilms</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/outdoors</loc>
-        <lastmod>2022-05-15T06:40:42+00:00</lastmod>
+        <lastmod>2022-05-24T03:46:06+00:00</lastmod>
         <priority>0.80</priority>
     </url>
         <url>
+        <loc>https://briandunnington.com/ranger_tug_r23_pot_puller</loc>
+        <lastmod>2022-05-24T12:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
         <loc>https://briandunnington.com/ranger_tug_r23_cave_shelf</loc>
         <lastmod>2022-05-15T12:00:00+00:00</lastmod>
         <priority>0.80</priority>
