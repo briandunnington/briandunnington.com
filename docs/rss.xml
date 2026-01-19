@@ -7,9 +7,60 @@
         <description>RSS feed for website</description>
         <language>en-us</language>
         <copyright>Copyright 2015 - Brian Dunnington</copyright>
-        <pubDate>Sat, 08 Apr 2023 11:56:16 GMT</pubDate>
-        <lastBuildDate>Sat, 08 Apr 2023 11:56:16 GMT</lastBuildDate>
+        <pubDate>Mon, 19 Jan 2026 08:29:30 GMT</pubDate>
+        <lastBuildDate>Mon, 19 Jan 2026 08:29:30 GMT</lastBuildDate>
 
+        <item>
+            <title>Blewett Pass Snow Biking &amp; Camping</title>
+            <link>https://briandunnington.com/blewett_pass_snow_bike</link>
+            <description><![CDATA[
+<div><img src='https://briandunnington.com/img/blewett.jpg' style='max-width:100%;height:auto;' /></div><p>It has been a few years since I have done any <a href="http://www.microadventures.org/">#microadventure</a> but I decided to do one every month of 2026. Kicked it off with a fatbike ride and overnight camp at Blewett Pass (Wenatchee Crest trail). There wasnt a lot of snow, but enough to have some fun.</p>
+
+<p class="video-container"><video id="video0" width="100%" height="56%" controls autoplay muted></video></p>
+
+<p>
+<figure><img src="/img/outdoors/blewett/bike.jpg" class="largeimg" />
+</figure>
+</p>
+
+<p>
+<figure><img src="/img/outdoors/blewett/tent.jpg" class="largeimg" />
+</figure>
+</p>
+
+<script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<script>
+
+    var vids = ["/img/outdoors/blewett/playlist.m3u8"];
+
+    var hlses = [];
+
+    for (var i=0;i<vids.length;i++)
+    {
+        var video = document.getElementById(`video${i}`);
+        if (Hls.isSupported()) {
+            video.twitterSourceVid = vids[i];
+            var hls = new Hls();
+            hls.on(Hls.Events.MEDIA_ATTACHED, function () {
+                this.loadSource(this.media.twitterSourceVid);
+                this.on(Hls.Events.MANIFEST_PARSED, function () {
+                    this.media.play();
+                });
+            });
+            hls.attachMedia(video);
+            hlses[i] = hls;
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = vids[i];
+        }
+    }
+</script>
+
+]]></description>
+            <pubDate>Sat, 17 Jan 2026 12:00:00 GMT</pubDate>
+            <guid>https://briandunnington.com/blewett_pass_snow_bike</guid>
+            <image>https://briandunnington.com/img/blewett_thumb.jpg</image>
+        </item>
         <item>
             <title>Windstorm, fallen tree, happy ending</title>
             <link>https://briandunnington.com/log_people</link>
@@ -314,15 +365,15 @@
             <description><![CDATA[
 <div><img src='https://briandunnington.com/img/kelcema.jpg' style='max-width:100%;height:auto;' /></div><p>Finally got out for my first proper <a href="http://www.microadventures.org/">#microadventure</a> in several years and showshoed in to Kelcema Lake. I only saw a handful of other people, and I had the entire lake to myself for a beautiful (and cold!) night under the stars.</p>
 
-<p><video id="video0" width="100%" controls autoplay muted></video></p>
+<p class="video-container"><video id="video0" width="100%" controls autoplay muted></video></p>
 
-<p><video id="video1" width="100%" controls autoplay muted></video></p>
+<p class="video-container"><video id="video1" width="100%" controls autoplay muted></video></p>
 
 <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
 <script>
 
-    var vids = ["https://video.twimg.com/ext_tw_video/1485415267605778432/pu/pl/2_v3zBxnfaWK1Uhn.m3u8?tag=12&container=fmp4","https://video.twimg.com/ext_tw_video/1485421183344386050/pu/pl/pUI1RlzuQ_6ytDOw.m3u8?tag=12&container=fmp4"];
+    var vids = ["/img/outdoors/kelcema/snow_camp_hls/playlist.m3u8","/img/outdoors/kelcema/snowshoeing_hls/playlist.m3u8"];
 
     var hlses = [];
 

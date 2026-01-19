@@ -9,13 +9,13 @@ Category: outdoors
 Finally got out for my first proper [#microadventure][Microadventures] in several years and showshoed in to Kelcema Lake. I only saw a handful of other people, and I had the entire lake to myself for a beautiful (and cold!) night under the stars.
 
 
-<p><video id="video0" width="100%" controls autoplay muted></video></p>
-<p><video id="video1" width="100%" controls autoplay muted></video></p>
+<p class="video-container"><video id="video0" width="100%" controls autoplay muted></video></p>
+<p class="video-container"><video id="video1" width="100%" controls autoplay muted></video></p>
 
 <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
 
-    var vids = ["https://video.twimg.com/ext_tw_video/1485415267605778432/pu/pl/2_v3zBxnfaWK1Uhn.m3u8?variant_version=1&tag=12","https://video.twimg.com/ext_tw_video/1485421183344386050/pu/pl/pUI1RlzuQ_6ytDOw.m3u8?variant_version=1&tag=12"];
+    var vids = ["/img/outdoors/kelcema/snow_camp_hls/playlist.m3u8","/img/outdoors/kelcema/snowshoeing_hls/playlist.m3u8"];
 
     var hlses = [];
 

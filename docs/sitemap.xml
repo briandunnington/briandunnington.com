@@ -7,50 +7,55 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://briandunnington.com</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/allposts</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.90</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/about</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/adventureracing</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/boat</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/family</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/homeimprovement</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/legofilms</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://briandunnington.com/category/outdoors</loc>
-        <lastmod>2023-04-08T11:56:16+00:00</lastmod>
+        <lastmod>2026-01-19T08:29:30+00:00</lastmod>
         <priority>0.80</priority>
     </url>
         <url>
+        <loc>https://briandunnington.com/blewett_pass_snow_bike</loc>
+        <lastmod>2026-01-17T12:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
         <loc>https://briandunnington.com/log_people</loc>
         <lastmod>2022-11-15T12:00:00+00:00</lastmod>
         <priority>0.80</priority>

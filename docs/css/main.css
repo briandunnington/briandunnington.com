@@ -2,7 +2,7 @@
    Author's custom styles
    ========================================================================== */
 
-   body {
+body {
     padding-top: 0px;
     padding-bottom: 20px;
     font-family: 'opensans', sans-serif;
@@ -143,6 +143,12 @@ h1, h2, h3, h4, h5, h6 {
     vertical-align:middle;
 }
 
+.video-container video {
+    width: 100%;           /* Dynamic width based on parent container */
+    height: auto;          /* Height is calculated automatically to maintain aspect ratio */
+    aspect-ratio: 16 / 9;  /* Explicitly define the aspect ratio (e.g., 16:9) */
+}
+
 @media (max-width: 768px) {
     body {
         padding-top: 50px;
@@ -174,7 +180,6 @@ h1, h2, h3, h4, h5, h6 {
 .jumbotron p {
     font-size: 19px;
 }
-
 
 
 
