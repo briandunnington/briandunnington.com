@@ -15,7 +15,7 @@ Finally got out for my first proper [#microadventure][Microadventures] in severa
 <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
 
-    var vids = ["https://video.twimg.com/ext_tw_video/1485415267605778432/pu/pl/2_v3zBxnfaWK1Uhn.m3u8?tag=12&container=fmp4","https://video.twimg.com/ext_tw_video/1485421183344386050/pu/pl/pUI1RlzuQ_6ytDOw.m3u8?tag=12&container=fmp4"];
+    var vids = ["https://video.twimg.com/ext_tw_video/1485415267605778432/pu/pl/2_v3zBxnfaWK1Uhn.m3u8?variant_version=1&tag=12","https://video.twimg.com/ext_tw_video/1485421183344386050/pu/pl/pUI1RlzuQ_6ytDOw.m3u8?variant_version=1&tag=12"];
 
     var hlses = [];
 
