@@ -7,9 +7,55 @@
         <description>RSS feed for website</description>
         <language>en-us</language>
         <copyright>Copyright 2015 - Brian Dunnington</copyright>
-        <pubDate>Mon, 19 Jan 2026 08:29:30 GMT</pubDate>
-        <lastBuildDate>Mon, 19 Jan 2026 08:29:30 GMT</lastBuildDate>
+        <pubDate>Mon, 02 Mar 2026 04:35:05 GMT</pubDate>
+        <lastBuildDate>Mon, 02 Mar 2026 04:35:05 GMT</lastBuildDate>
 
+        <item>
+            <title>Lily Lizard Overnight</title>
+            <link>https://briandunnington.com/lily_lizard_overnight</link>
+            <description><![CDATA[
+<div><img src='https://briandunnington.com/img/lilylizard.jpg' style='max-width:100%;height:auto;' /></div><p>After a successful <a href="blewett_pass_snow_bike">microadventure in January</a> I wanted to keep the momentum going. Got down to the last day of the month, but I got out for a fun overnighter at Lily and Lizard Lakes on Blanchard Mountain.</p>
+
+<p>
+<figure><img src="/img/outdoors/lilylizard/map.png" class="largeimg" />
+</figure>
+</p>
+
+<p class="video-container"><video id="video0" width="100%" height="56%" controls autoplay muted></video></p>
+
+<script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<script>
+
+    var vids = ["/img/outdoors/lilylizard/playlist.m3u8"];
+
+    var hlses = [];
+
+    for (var i=0;i<vids.length;i++)
+    {
+        var video = document.getElementById(`video${i}`);
+        if (Hls.isSupported()) {
+            video.twitterSourceVid = vids[i];
+            var hls = new Hls();
+            hls.on(Hls.Events.MEDIA_ATTACHED, function () {
+                this.loadSource(this.media.twitterSourceVid);
+                this.on(Hls.Events.MANIFEST_PARSED, function () {
+                    this.media.play();
+                });
+            });
+            hls.attachMedia(video);
+            hlses[i] = hls;
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = vids[i];
+        }
+    }
+</script>
+
+]]></description>
+            <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+            <guid>https://briandunnington.com/lily_lizard_overnight</guid>
+            <image>https://briandunnington.com/img/lilylizard_thumb.jpg</image>
+        </item>
         <item>
             <title>Blewett Pass Snow Biking &amp; Camping</title>
             <link>https://briandunnington.com/blewett_pass_snow_bike</link>
